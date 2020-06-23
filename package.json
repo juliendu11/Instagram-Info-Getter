@@ -1,0 +1,26 @@
+{
+  "name": "instagram-info-getter",
+  "version": "0.1.0",
+  "description": "Get information on hashtags like for example the number of total posts, the number of likes, comments, list of usernames, and the most used hashtags compared to the entered hashtag",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "realTest": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliendu11/Instagram-Info-Getter.git"
+  },
+  "author": "juliendu11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliendu11/Instagram-Info-Getter/issues"
+  },
+  "homepage": "https://github.com/juliendu11/Instagram-Info-Getter#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
